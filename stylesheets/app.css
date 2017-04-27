@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+nav { 
+    float: right;
+    margin-right: 15px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+
+}
+
+header {
+
+    overflow: auto;
+
+}
+div{
+
+    float: left;
+
+}
+
+li{
+    list-style: none;
+}
+section{
+    float: left;
+
+}
+
+.logo {
+    width: 200px;
+    height:100px;
+    overflow: hidden;
+    background: url(../images/aston.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+}
+
+.para {
+    width: 50%;
+    float: left;
+    height: 50px;
+    width: 100px;
+
+
+.para1 {
+    width: 50%;
+    float: right;
+    height: 50px
+    width: 100px;
+
+}
+
+.footer {display: block;}
